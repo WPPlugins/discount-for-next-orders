@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-16 12:04+0530\n"
+"PO-Revision-Date: 2017-04-16 12:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/mt-discount-for-next-day-main-class.php:7
+#, fuzzy
+msgid "Discount for Next Orders"
+msgstr "Bestellrabat:"
+
+#: includes/mt-discount-for-next-day-main-class.php:26
+#, fuzzy
+msgid "Settings saved"
+msgstr "Einstellungen"
+
+#: includes/mt-discount-for-next-day-main-class.php:44
+#, fuzzy
+msgid "Generic Settings:"
+msgstr "Generisches Einstellungen:"
+
+#: includes/mt-discount-for-next-day-main-class.php:48
+#, fuzzy
+msgid "Discount Type "
+msgstr "Verpackungsart"
+
+#: includes/mt-discount-for-next-day-main-class.php:56
+#: includes/mt-discount-for-next-day-main-class.php:59
+#: includes/mt-discount-for-next-day-main-class.php:64
+#, fuzzy
+msgid "Percentage Discount"
+msgstr "Bestellrabat:"
+
+#: includes/mt-discount-for-next-day-main-class.php:57
+#: includes/mt-discount-for-next-day-main-class.php:60
+#: includes/mt-discount-for-next-day-main-class.php:65
+#, fuzzy
+msgid "Fixed Cart Discount "
+msgstr "Warenkorb Rabatt:"
+
+#: includes/mt-discount-for-next-day-main-class.php:73
+#, fuzzy
+msgid "Discount Amount (%) "
+msgstr "Bestellrabat:"
+
+#: includes/mt-discount-for-next-day-main-class.php:76
+msgid "Discount Amount ( ex: 20 )"
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:80
+msgid "Discount expiry date (In days)"
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:83
+#, fuzzy
+msgid "Default: 365 Days"
+msgstr "Standardverpackung: jedes Packet separat"
+
+#: includes/mt-discount-for-next-day-main-class.php:87
+#, fuzzy
+msgid "Discount Email Restrictions "
+msgstr "Warenkorb Rabatt:"
+
+#: includes/mt-discount-for-next-day-main-class.php:95
+#: includes/mt-discount-for-next-day-main-class.php:98
+#: includes/mt-discount-for-next-day-main-class.php:103
+#, fuzzy
+msgid "Restricted with Order Email"
+msgstr "Auftrag"
+
+#: includes/mt-discount-for-next-day-main-class.php:96
+msgid "Everyone "
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:99
+#: includes/mt-discount-for-next-day-main-class.php:104
+msgid "Everyone"
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:112
+#, fuzzy
+msgid "Discount Apply Limit "
+msgstr "Grenze"
+
+#: includes/mt-discount-for-next-day-main-class.php:115
+msgid "Default: 1 (one time use)"
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:121
+#, fuzzy
+msgid "Advanced Settings:"
+msgstr "Erweiterte Einstellungen"
+
+#: includes/mt-discount-for-next-day-main-class.php:125
+#, fuzzy
+msgid "Discount Code Prefix "
+msgstr "Rechnungsnummer Präfix"
+
+#: includes/mt-discount-for-next-day-main-class.php:132
+#, fuzzy
+msgid "Discount Code Following"
+msgstr "Servicecode"
+
+#: includes/mt-discount-for-next-day-main-class.php:140
+#: includes/mt-discount-for-next-day-main-class.php:143
+#: includes/mt-discount-for-next-day-main-class.php:148
+#, fuzzy
+msgid "Order Number + User Name"
+msgstr "FTP Benutzername"
+
+#: includes/mt-discount-for-next-day-main-class.php:141
+#: includes/mt-discount-for-next-day-main-class.php:144
+#: includes/mt-discount-for-next-day-main-class.php:149
+#, fuzzy
+msgid "Random Code + User Name"
+msgstr "FTP Benutzername"
+
+#: includes/mt-discount-for-next-day-main-class.php:158
+#, fuzzy
+msgid "Email Send From"
+msgstr "VON"
+
+#: includes/mt-discount-for-next-day-main-class.php:161
+msgid "info@example.com"
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:165
+#, fuzzy
+msgid "Email Subject"
+msgstr "Email : "
+
+#: includes/mt-discount-for-next-day-main-class.php:168
+#, fuzzy
+msgid "Discount Email"
+msgstr "Warenkorb Rabatt:"
+
+#: includes/mt-discount-for-next-day-main-class.php:172
+#, fuzzy
+msgid "Store/Shop Link"
+msgstr "Folge Link für detaillierte Status."
+
+#: includes/mt-discount-for-next-day-main-class.php:175
+msgid "Store Link for Email Button"
+msgstr ""
+
+#: includes/mt-discount-for-next-day-main-class.php:182
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ma-discount-for-next-orders-basic.php:21
+msgid ""
+"Oops! You tried installing the premium version without deactivating and "
+"deleting the basic version. Kindly deactivate and delete UpSell with "
+"Coupons(Basic) Woocommerce Extension and then try again"
+msgstr ""
+
+#: ma-discount-for-next-orders-basic.php:106
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ma-discount-for-next-orders-basic.php:107
+msgid "Plugin Guide"
+msgstr ""
+
+#: ma-discount-for-next-orders-basic.php:108
+msgid "Support"
+msgstr "Unterstützung"
+
+#: ma-discount-for-next-orders-basic.php:114
+msgid "Discount for Next Orders (Basic)"
+msgstr ""
+
+#: ma-discount-for-next-orders-basic.php:124
+msgid "Oops! Woocommerce required to access this plugin"
+msgstr ""
